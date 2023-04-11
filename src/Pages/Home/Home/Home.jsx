@@ -1,12 +1,10 @@
 import React from 'react';
+import Founder from '../Founder/Founder';
 
 const Home = () => {
     return (
         <div>
-            <h1 className="text-3xl font-bold underline">
-                Hello world!
-            </h1>
-           
+            <Founder />
         </div>
     );
 };
