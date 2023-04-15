@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "name": "Asana",
+        "rating": 3,
+        "people": "9,300",
+        "img": "https://i.ibb.co/fDGrYzC/asana.png",
+        "categoryId": "1"
+    },
+    {
+        "id": "2",
+        "name": "Smartsheet",
+        "rating": "5",
+        "people": "11,126",
+        "img": "https://i.ibb.co/VNWgxk8/smartsheet.png",
+        "categoryId": "1"
+    },
+    {
+        "id": "3",
+        "name": "monday.com",
+        "rating": "5",
+        "people": "7,953",
+        "img": "",
+        "categoryId": "1"
+    },
+    {
+        "id": "4",
+        "name": "ClickUp",
+        "rating": "5",
+        "people": "6,618",
+        "img": "https://i.ibb.co/5r4HZxf/clickup.png",
+        "categoryId": "1"
+    },
+    {
+        "id": "5",
+        "name": "Wrike",
+        "rating": "5",
+        "people": "3,302",
+        "img": "https://i.ibb.co/N2YQhjG/wrike.png",
+        "categoryId": "1"
+    },
+    {
+        "id": "6",
+        "name": "Airtable",
+        "rating": "5",
+        "people": "2,121",
+        "img": "https://i.ibb.co/YdQ2Cr8/airtable.png",
+        "categoryId": "1"
+    },
+    {
+        "id": "7",
+        "name": "Notion",
+        "rating": "5",
+        "people": "2,022",
+        "img": "https://i.ibb.co/kMTfHXp/notion.png",
+        "categoryId": "1"
+    },
+    {
+        "id": "8",
+        "name": "Trello",
+        "rating": "5",
+        "people": "13,154",
+        "img": "https://i.ibb.co/FD02nHK/trello.png",
+        "categoryId": "1"
+    },
+    {
+        "id": "9",
+        "name": "Basecamp",
+        "rating": "5",
+        "people": "5,203",
+        "img": "https://i.ibb.co/sQXNzHJ/basecamp.png",
+        "categoryId": "1"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "category": "Project Management"
+    },
+    {
+        "id": "2",
+        "category": "Video Conferencing"
+    },
+    {
+        "id": "3",
+        "category": "E-Commerce Platforms"
+    },
+    {
+        "id": "4",
+        "category": "Marketing Automation"
+    },
+    {
+        "id": "5",
+        "category": "Accounting"
+    },
+    {
+        "id": "6",
+        "category": "CRM"
+    },
+    {
+        "id": "7",
+        "category": "Expense Management"
+    },
+    {
+        "id": "8",
+        "category": "ERP Systems"
+    },
+    {
+        "id": "9",
+        "category": "Online Backup"
+    }
+]
